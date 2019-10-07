@@ -1,0 +1,2 @@
+DELETE http://localhost:3000/examples/5d9aae28b1644329361f592a HTTP/1.1
+Content-Type: application/json
